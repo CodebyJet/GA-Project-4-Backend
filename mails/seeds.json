@@ -1,0 +1,272 @@
+[
+{
+  "model": "mails.mail",
+  "pk": 1,
+  "fields": {
+    "text": "ertyh",
+    "created_at": "2023-01-23T11:25:03.405Z",
+    "owner": 1,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 2,
+  "fields": {
+    "text": "fghjk",
+    "created_at": "2023-01-23T21:39:02.402Z",
+    "owner": 1,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 3,
+  "fields": {
+    "text": "martin sucks balls",
+    "created_at": "2023-01-23T22:17:34.940Z",
+    "owner": 1,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 4,
+  "fields": {
+    "text": "dfg",
+    "created_at": "2023-01-24T16:46:09.684Z",
+    "owner": 2,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 5,
+  "fields": {
+    "text": "cindy your tv is leaking",
+    "created_at": "2023-01-24T17:05:16.673Z",
+    "owner": 2,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 6,
+  "fields": {
+    "text": "garry  what up",
+    "created_at": "2023-01-24T17:07:01.679Z",
+    "owner": 2,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 7,
+  "fields": {
+    "text": "Big ups to the ukraine",
+    "created_at": "2023-01-24T17:07:45.534Z",
+    "owner": 2,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 8,
+  "fields": {
+    "text": "cindy new messages from 25/01",
+    "created_at": "2023-01-25T12:48:20.019Z",
+    "owner": 2,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 9,
+  "fields": {
+    "text": "another message",
+    "created_at": "2023-01-25T13:17:16.629Z",
+    "owner": 1,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 10,
+  "fields": {
+    "text": "another message",
+    "created_at": "2023-01-25T13:20:12.896Z",
+    "owner": 1,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 11,
+  "fields": {
+    "text": "cindys message to admin 25/01",
+    "created_at": "2023-01-25T13:23:18.058Z",
+    "owner": 3,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 12,
+  "fields": {
+    "text": "frist from Cindy to Garry",
+    "created_at": "2023-01-25T13:36:16.143Z",
+    "owner": 3,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 13,
+  "fields": {
+    "text": "reply from Garry to Cindy",
+    "created_at": "2023-01-25T13:36:27.490Z",
+    "owner": 2,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 14,
+  "fields": {
+    "text": "reply back c to G",
+    "created_at": "2023-01-25T13:36:40.582Z",
+    "owner": 3,
+    "receiver": 2
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 15,
+  "fields": {
+    "text": "admin to cindy first message",
+    "created_at": "2023-01-25T13:37:16.883Z",
+    "owner": 1,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 16,
+  "fields": {
+    "text": "reply from cindy to admin",
+    "created_at": "2023-01-25T13:37:28.564Z",
+    "owner": 3,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 17,
+  "fields": {
+    "text": "smart reply back from admni to C",
+    "created_at": "2023-01-25T13:37:40.839Z",
+    "owner": 1,
+    "receiver": 3
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 18,
+  "fields": {
+    "text": "hey hows it going?",
+    "created_at": "2023-01-25T18:04:09.935Z",
+    "owner": 1,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 19,
+  "fields": {
+    "text": "hey spiff",
+    "created_at": "2023-01-25T21:31:45.722Z",
+    "owner": 6,
+    "receiver": 4
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 20,
+  "fields": {
+    "text": "hey its me again",
+    "created_at": "2023-01-25T21:32:42.499Z",
+    "owner": 6,
+    "receiver": 4
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 21,
+  "fields": {
+    "text": "another message",
+    "created_at": "2023-01-25T21:37:42.717Z",
+    "owner": 1,
+    "receiver": 4
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 22,
+  "fields": {
+    "text": "heyyy",
+    "created_at": "2023-01-25T21:39:13.402Z",
+    "owner": 6,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 23,
+  "fields": {
+    "text": "hey",
+    "created_at": "2023-01-25T21:39:24.925Z",
+    "owner": 6,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 24,
+  "fields": {
+    "text": "hey",
+    "created_at": "2023-01-25T21:39:28.259Z",
+    "owner": 6,
+    "receiver": 1
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 25,
+  "fields": {
+    "text": "hey jake",
+    "created_at": "2023-01-25T21:55:04.693Z",
+    "owner": 6,
+    "receiver": 5
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 26,
+  "fields": {
+    "text": "hey",
+    "created_at": "2023-01-25T23:06:18.678Z",
+    "owner": 6,
+    "receiver": 4
+  }
+},
+{
+  "model": "mails.mail",
+  "pk": 27,
+  "fields": {
+    "text": "bread basket",
+    "created_at": "2023-01-25T23:13:49.188Z",
+    "owner": 6,
+    "receiver": 4
+  }
+}
+]

@@ -1,0 +1,42 @@
+[
+{
+  "model": "descriptions.description",
+  "pk": 1,
+  "fields": {
+    "text": "pickles",
+    "owner": 1
+  }
+},
+{
+  "model": "descriptions.description",
+  "pk": 2,
+  "fields": {
+    "text": "dfghnj",
+    "owner": 1
+  }
+},
+{
+  "model": "descriptions.description",
+  "pk": 3,
+  "fields": {
+    "text": "I love, long walks on the beach, and the terrified looks of the older gentery",
+    "owner": 2
+  }
+},
+{
+  "model": "descriptions.description",
+  "pk": 4,
+  "fields": {
+    "text": "I'm kinda, low ki, amazing",
+    "owner": 4
+  }
+},
+{
+  "model": "descriptions.description",
+  "pk": 5,
+  "fields": {
+    "text": "Pretty gnarly dude tbh",
+    "owner": 5
+  }
+}
+]

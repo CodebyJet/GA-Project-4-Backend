@@ -1,0 +1,87 @@
+[
+{
+  "model": "quizs.quiz",
+  "pk": 9,
+  "fields": {
+    "question_one": "a countryside hike",
+    "question_two": "split 50/50",
+    "question_three": "who looks good",
+    "question_four": "rarely",
+    "question_five": "Spiders",
+    "question_six": "Yes",
+    "question_seven": "A home-cooked meal",
+    "question_eight": "no, wait, this one for sure",
+    "question_nine": "A self-centered attitude",
+    "question_ten": "never",
+    "owner": 4
+  }
+},
+{
+  "model": "quizs.quiz",
+  "pk": 10,
+  "fields": {
+    "question_one": "A countryside hike",
+    "question_two": "I'd pay",
+    "question_three": "laid back",
+    "question_four": "not at all",
+    "question_five": "Ants",
+    "question_six": "No",
+    "question_seven": "A romantic surprise",
+    "question_eight": "no, wait, this one for sure",
+    "question_nine": "A know it all",
+    "question_ten": "love it",
+    "owner": 1
+  }
+},
+{
+  "model": "quizs.quiz",
+  "pk": 11,
+  "fields": {
+    "question_one": "cosy Coffee vibes",
+    "question_two": "split 50/50",
+    "question_three": "who is a good communicator",
+    "question_four": "rarely",
+    "question_five": "Beetles",
+    "question_six": "Yes",
+    "question_seven": "A romantic message",
+    "question_eight": "This one",
+    "question_nine": "Someone boring",
+    "question_ten": "rarely",
+    "owner": 3
+  }
+},
+{
+  "model": "quizs.quiz",
+  "pk": 12,
+  "fields": {
+    "question_one": "a countryside hike",
+    "question_two": "I'd pay",
+    "question_three": "laid back",
+    "question_four": "very often",
+    "question_five": "Spiders",
+    "question_six": "Yes",
+    "question_seven": "A home-cooked meal",
+    "question_eight": "no, wait, this one for sure",
+    "question_nine": "Fear of commitment",
+    "question_ten": "love it",
+    "owner": 5
+  }
+},
+{
+  "model": "quizs.quiz",
+  "pk": 13,
+  "fields": {
+    "question_one": "a romantic Meal out",
+    "question_two": "I'd pay",
+    "question_three": "financially stable",
+    "question_four": "super spontaneous",
+    "question_five": "Ants",
+    "question_six": "wait",
+    "question_seven": "A home-cooked meal",
+    "question_eight": "That one",
+    "question_nine": "A self-centered attitude",
+    "question_ten": "love it",
+    "owner": 6
+  }
+}
+]
